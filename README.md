@@ -1,4 +1,7 @@
 # to-do
+## Preview
+Todo App with dark/light mode and draggable components. Project and design from Frontend Mentor.
+https://todo-vue-gamma.vercel.app/
 
 ## Project setup
 ```
